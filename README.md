@@ -1,6 +1,6 @@
 # Hi, I'm Daniel 👋🏼👨🏽‍💻
 
-<img src="https://github.com/DansMarquis/DansMarquis/blob/932402bd2d7dabe21765b839996c8b12768d54ae/back.png" alt="banner">
+<img src="https://github.com/DansMarquis/DansMarquis/blob/8e20f1c0139f707e3ac026015cb8dda7f3ee5798/back.png" alt="banner">
 I'm a software engineer who is passionate about making a contribution to an open-source more approachable, creating technology to elevate people, and building community. I consider myself a creative mind with an entrepreneurial and critical spirit. Growing with the experiences and opportunities that appear along the way. Passionate about technologies, network, web and mobile development and photography.
 
 In 2021, I was selected to be the Missing Piece of the Beta Trainee Program in [Blip](https://blip.pt) as a QA Analyst.
